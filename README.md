@@ -1,9 +1,4 @@
-
-  <a href="https://www.linkedin.com/in/vladislav-ivanov-9b5a47181/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=yGoodwinvlad&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=yGoodwinvlad&style=flat-square&color=blue" alt=""/>
 
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
