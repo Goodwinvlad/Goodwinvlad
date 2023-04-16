@@ -1,6 +1,6 @@
  <img src="https://komarev.com/ghpvc/?username=yGoodwinvlad&style=flat-square&color=blue" alt=""/>
 
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :cloud: I’m working as a Data Analyst in Huawei
 - :phone: More than 6 years in Telecom
