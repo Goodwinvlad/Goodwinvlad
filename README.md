@@ -3,7 +3,6 @@
 Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :cloud: I’m working as a Data Analyst
-- :phone: More than 6 years in Telecom
 - :zap: In my free time, I bring up my son
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Goodwinvlad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-ivanov-9b5a47181/)
 
